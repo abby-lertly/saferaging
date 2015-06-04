@@ -27,7 +27,7 @@
 /*vertically centers the links, changes link font and color*/
 .navbar .nav > li > a {
 	color: #3abced;
-	font-family: "Lato", "Open Sans", "Helvetica", "Arial", sans-serif;
+	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	letter-spacing: 2px;
@@ -61,7 +61,7 @@ ul.nav.navbar-nav {
 /*color and font for main site title*/
 .navbar-inverse .navbar-brand {
 	color: #3abced;
-	font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 40px;
 	font-weight: 300;
 	letter-spacing: 3px;
